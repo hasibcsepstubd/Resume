@@ -23,14 +23,16 @@ Hello, I am Hasibur Rashid, I'm a full stack engineer. I have 5+ years of experi
 
 ## Education
 - MSc. in CSE [Khulna Univesity of Engineering & Technology, Bangladesh](http://kuet.ac.bd)
-- BSc. in CSE [Patuakhali Science and Technology University, Bangladesh] (http://pstu.ac.bd)
+- BSc. in CSE [Patuakhali Science and Technology University, Bangladesh](http://pstu.ac.bd)
 
 ## Conatct Me
 Please feel free to contact me if you have any questions, freelance project, technical aspect or comments. I check my electronic messages often throughout the day and typically I respond quickly. However if I am traveling, working, or having fun somewhere, it might take a bit longer. 
 
 - Mobile: +8801827788726, +8801750128286
-- E-mail: hasib.cse.pstu.bd@gmail.com,
+- E-mail: hasib.cse.pstu.bd@gmail.com
+- Skype: hasib.cse.pstu.bd
 - Website:https://iamhasib.wordpress.com
+- Social Media: [Facebook](https://facebook.com/hasibcsepstu) | [LinkedIn](https://www.linkedin.com/in/hasibur) | [Twitter](https://twitter.com/hasibur_rashid)
 
 ## Thanks
 #### Md. Hasibur Rashid
