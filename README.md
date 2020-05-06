@@ -11,7 +11,7 @@ Hello, I am Hasibur Rashid, I'm a full stack engineer. I have 5+ years of experi
 - Business Development Analyst etc.
 
 ## Skillset
-- Expert on Laravel, CodeIgniter, PHP, ASP.NET, WordPress, C#, Java, REST API, Database, React JS, Next Js, Gatsby, React Native, Vue JS, JS, TypeScript, JQuery, Ajax, HTML5, CSS3 and Other Web Frameworks & Technologies.
+- Expert on Laravel, CodeIgniter, PHP, ASP.NET, WordPress, C#, Java, REST API, Database, React JS, Next Js, Gatsby, React Native, Vue JS, JS, TypeScript, JQuery, Ajax, HTML5, CSS3,microservices, DevOps and Other Web Frameworks & Technologies.
 - Proficient in AI, ML, Data Science, Blockchain, Cyber-Security, Cloud Computing/AWS, IOT and Latest Cutting Edge Technologies.
 
 ## Experience
